@@ -13,6 +13,9 @@
             Console.WriteLine("5");//V1
             Console.WriteLine("Aliiiiiiiiiiiiiiiiiiiiiiii");//V1
             Console.WriteLine("Hellooooo");//V1
+            Console.WriteLine("2");//V1
+            Console.WriteLine("3");//V1
+            Console.WriteLine("4");//V1
         }
     }
 }
