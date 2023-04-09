@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Sedat");//V1
+            Console.WriteLine("Mehmet");//V1
+            Console.WriteLine("Veli");//V1
         }
     }
 }
